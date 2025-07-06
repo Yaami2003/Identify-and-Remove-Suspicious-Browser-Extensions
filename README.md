@@ -18,7 +18,7 @@ Learn how to review, identify, and safely remove browser extensions that may pos
 ## 📷 Screenshots
 Stored in the `screenshots/` folder:
 ![before](https://github.com/Yaami2003/Identify-and-Remove-Suspicious-Browser-Extensions/blob/c3caf757b89a5c6332b133d7cc6c0564c9cbd7e1/before.png) – Before removing suspicious extension
-- `after.png` – After cleanup
+![after](https://github.com/Yaami2003/Identify-and-Remove-Suspicious-Browser-Extensions/blob/dcd27e0de108c82d8727f8d8f074eda56866af8a/after.png) – After cleanup
 
 ## ✅ Conclusion
 Regular review of browser extensions helps maintain privacy and performance. Avoid third-party tools that request excessive access.
