@@ -17,7 +17,7 @@ Learn how to review, identify, and safely remove browser extensions that may pos
 
 ## 📷 Screenshots
 Stored in the `screenshots/` folder:
-- `before.png` – Before removing suspicious extension
+![before](https://github.com/Yaami2003/Identify-and-Remove-Suspicious-Browser-Extensions/blob/c3caf757b89a5c6332b133d7cc6c0564c9cbd7e1/before.png) – Before removing suspicious extension
 - `after.png` – After cleanup
 
 ## ✅ Conclusion
